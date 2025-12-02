@@ -8,6 +8,7 @@ Ce module contient des tests pour:
 - Les cas nominaux et les edge cases
 
 Tests: pytest test_app.py -v
+Auteur : Guillaume M.
 """
 
 import pytest
